@@ -1,4 +1,5 @@
-# Hey, I'm Desh Deepak Pal
+# Hey ! KeenAble Team,
+# Good & Bad Services Table in Markdown Format
 
 | **Service Provider** |                         |                                      |                                                                 |               |               |                      |
 | -------------------- | ----------------------- | ------------------------------------ | --------------------------------------------------------------- | ------------- | ------------- | -------------------- |
@@ -114,3 +115,11 @@
 |                      |                         |                                      |                                                                 | **<br>**      |               |                      |
 |                      |                         |                                      |                                                                 | **\>10 Good** |               |                      |
 |                      |                         |                                      |                                                                 | **<10 Bad**   |               |                      |
+
+**Maximum Rating Of Service Providers**
+| | | | 
+|:-:|:-:|:-:|
+|**Service**|**Rating**| **Star Rating** |
+| **Instamart** | 4 | ★★★★★ |
+| **Aritel Broadband** | 2 | ★★ |
+
