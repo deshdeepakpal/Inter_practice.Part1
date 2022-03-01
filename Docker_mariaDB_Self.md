@@ -10,7 +10,7 @@ Docker Container is a standardized unit which can be created on the fly to deplo
 ## MariaDB
 MariaDB is an open-source relational database management system. As with other relational databases, MariaDB stores data in tables made up of rows and columns. Users can define, manipulate, control, and query data using Structured Query Language, more commonly known as SQL.
 
-### STEP BY STEP INSTRUCTION FOR Installation of Docker and run maria db service via dockeer/ create a database then in database create a table, create a evaluation sheet.
+ **STEP BY STEP INSTRUCTION FOR Installation of Docker and run maria db service via dockeer/ create a database then in database create a table, create a evaluation sheet.**
 
 
 ## **Install Docker on Centos-8 run following commannd:-**
